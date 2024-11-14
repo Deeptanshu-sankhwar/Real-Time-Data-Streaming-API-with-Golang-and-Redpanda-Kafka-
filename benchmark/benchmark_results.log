@@ -1,0 +1,5 @@
+Benchmarking Results:
+Total Messages Sent: 99888
+Time Elapsed: 7.56 seconds
+Throughput: 13209.01 messages/second
+Average Latency per message: 0.08 ms
